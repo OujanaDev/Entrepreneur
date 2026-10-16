@@ -1,0 +1,144 @@
+@import "@fontsource-variable/archivo/wdth.css";
+@import "@fontsource/atkinson-hyperlegible/400.css";
+@import "@fontsource/atkinson-hyperlegible/700.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Pinned palette: forest desk, olive dividers, cream sheets, kraft board, rust stamps. */
+    --forest: 88 38% 15%;      /* #283618 */
+    --olive: 74 32% 32%;       /* #606c38 */
+    --cream: 52 94% 94%;       /* #fefae0 */
+    --kraft: 32 65% 62%;       /* #dda15e */
+    --rust: 28 67% 44%;        /* #bc6c25 */
+    --rust-deep: 28 72% 34%;   /* rust darkened for text-bearing controls (AA on cream) */
+    --paper: 52 100% 98%;      /* cards and fields, a step lighter than the cream ground */
+
+    --background: var(--cream);
+    --foreground: var(--forest);
+    --card: var(--cream);
+    --card-foreground: var(--forest);
+    --primary: var(--rust-deep);
+    --primary-foreground: var(--cream);
+    --secondary: 52 60% 88%;
+    --secondary-foreground: var(--forest);
+    --muted: 50 55% 89%;
+    --muted-foreground: 78 30% 27%;
+    --accent: var(--olive);
+    --accent-foreground: var(--cream);
+    --destructive: 6 70% 38%;
+    --destructive-foreground: var(--cream);
+    --border: 50 30% 80%;
+    --input: 50 28% 58%;
+    --ring: var(--rust);
+    --radius: 0.25rem;
+  }
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5rem;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+  }
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-family: "Atkinson Hyperlegible", system-ui, sans-serif;
+    font-size: 1.0625rem;
+    line-height: 1.6;
+  }
+  h1, h2, h3, .font-display {
+    font-family: "Archivo Variable", "Archivo", system-ui, sans-serif;
+    letter-spacing: -0.02em;
+    text-wrap: balance;
+  }
+  ::selection {
+    background: hsl(var(--kraft));
+    color: hsl(var(--forest));
+  }
+  :focus-visible {
+    outline: 2px solid hsl(var(--rust));
+    outline-offset: 2px;
+  }
+  a {
+    text-underline-offset: 0.2em;
+  }
+  textarea {
+    caret-color: hsl(var(--rust));
+  }
+  .tabular {
+    font-variant-numeric: tabular-nums;
+  }
+  html {
+    scrollbar-color: hsl(var(--olive)) hsl(var(--cream));
+  }
+}
+
+@layer components {
+  /* Minimal system: flat palette fields, 1px rules, generous space. No texture, no tilt, no shadow theatre. */
+  .panel {
+    background: hsl(var(--paper));
+    border: 1px solid hsl(var(--border));
+    border-radius: 6px;
+  }
+  .field {
+    height: 2.75rem;
+    width: 100%;
+    border-radius: 4px;
+    border: 1px solid hsl(var(--input));
+    background: hsl(var(--paper));
+    padding: 0 0.75rem;
+    font-weight: 400;
+  }
+  .field:focus-visible {
+    outline: 2px solid hsl(var(--rust));
+    outline-offset: 1px;
+  }
+  .btn {
+    display: inline-flex;
+    min-height: 3rem;
+    align-items: center;
+    justify-content: center;
+    gap: 0.6rem;
+    border-radius: 4px;
+    padding: 0.7rem 1.25rem;
+    font-weight: 700;
+    text-align: center;
+    transition: background-color 150ms ease, color 150ms ease, border-color 150ms ease;
+  }
+  .btn:disabled, .btn[aria-disabled="true"] {
+    cursor: not-allowed;
+    opacity: 0.5;
+  }
+  .btn-primary {
+    background: hsl(var(--rust-deep));
+    color: hsl(var(--cream));
+  }
+  .btn-primary:not(:disabled):hover {
+    background: hsl(var(--forest));
+  }
+  .btn-dark {
+    background: hsl(var(--forest));
+    color: hsl(var(--cream));
+  }
+  .btn-dark:not(:disabled):hover {
+    background: hsl(var(--olive));
+  }
+  .btn-outline {
+    border: 1px solid hsl(var(--forest));
+    color: hsl(var(--forest));
+  }
+  .btn-outline:not(:disabled):hover {
+    background: hsl(var(--forest));
+    color: hsl(var(--cream));
+  }
+  .rule {
+    border-top: 1px solid hsl(var(--border));
+  }
+}

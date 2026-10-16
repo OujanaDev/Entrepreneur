@@ -1,0 +1,670 @@
+{
+  "lastReviewed": "2026-10-15",
+  "disclaimer": "Cet espace fournit une information générale, à visée pédagogique, à partir de sources officielles consultées le 15 octobre 2026. Il ne constitue pas un conseil juridique et ne garantit en aucun cas l'éligibilité à un titre de séjour ni l'issue d'une démarche : chaque dossier est examiné individuellement par la préfecture, et les règles, montants et pratiques peuvent évoluer. Vérifiez toujours les textes et pages officielles à jour et, pour votre situation personnelle, rapprochez-vous de votre préfecture, d'un avocat en droit des étrangers ou d'une structure d'accompagnement (CCI, CMA, Pépite, point d'accueil).",
+  "topics": [
+    {
+      "id": "conditions-sejour",
+      "title": "Ce que permet (et ne permet pas) le titre de séjour « étudiant »",
+      "summary": "Le titre « étudiant » autorise un travail salarié accessoire limité à 964 heures par an, mais, selon Service-Public, il ne permet pas d'être auto-entrepreneur. Exercer une activité indépendante suppose en principe un autre titre de séjour.",
+      "sections": [
+        {
+          "heading": "Le travail salarié accessoire : 964 heures par an",
+          "body": "Un étudiant non européen titulaire d'une carte de séjour « étudiant » (ou d'un VLS-TS validé) peut travailler comme salarié sans autorisation de travail, dans la limite de 964 heures par an, soit 60 % de la durée annuelle légale du travail.\n\n- Le décompte commence à la délivrance de la carte ou à la validation du VLS-TS.\n- Selon Service-Public, dépasser cette limite expose à un retrait ou à un refus de renouvellement du titre de séjour.\n- Les étudiants algériens relèvent de règles différentes (autorisation de travail préalable et plafond de 50 % de la durée annuelle de travail de la branche) : voir la rubrique dédiée.",
+          "sources": [
+            {"label": "Un étudiant non européen peut-il travailler en France ?", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2713", "verifiedAt": "2026-10-15"}
+          ],
+          "needsIndividualCheck": false
+        },
+        {
+          "heading": "L'activité indépendante et la micro-entreprise",
+          "body": "La fiche officielle Service-Public consacrée au travail des étudiants non européens indique explicitement : « La carte de séjour étudiant ne permet pas d'être auto-entrepreneur ». Elle précise la même chose pour le certificat de résidence « étudiant » des Algériens.\n\nPour exercer une activité commerciale, artisanale ou libérale à titre indépendant, il faut en principe détenir un titre de séjour qui autorise l'exercice d'une activité non salariée, par exemple la carte « entrepreneur / profession libérale ». Le portail Entreprendre Service-Public rappelle qu'exercer comme entrepreneur individuel implique de résider en France et de disposer d'un titre de séjour autorisant l'exercice d'une activité non salariée.\n\nCela ne signifie pas qu'un projet est impossible pendant les études : il est possible de le préparer (étude de marché, prototype, accompagnement, par exemple via le statut national d'étudiant-entrepreneur). L'exercice de l'activité, lui, dépend du titre de séjour.",
+          "sources": [
+            {"label": "Un étudiant non européen peut-il travailler en France ?", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2713", "verifiedAt": "2026-10-15"},
+            {"label": "Un étranger peut-il créer une entreprise en France ?", "publisher": "Entreprendre.Service-Public.fr", "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F22494", "verifiedAt": "2026-10-15"}
+          ],
+          "needsIndividualCheck": false
+        },
+        {
+          "heading": "Immatriculer une entreprise ne donne pas de droit au séjour",
+          "body": "Créer une micro-entreprise se fait en ligne sur le guichet unique des formalités d'entreprises (INPI). L'immatriculation au registre national des entreprises et l'affiliation à l'URSSAF sont des formalités d'entreprise : elles ne valent ni titre de séjour, ni autorisation d'exercer l'activité au regard du droit des étrangers.\n\n- Le droit au séjour et le droit d'exercer une activité non salariée relèvent de la préfecture (titre de séjour adapté).\n- Pour une activité réglementée (certaines professions de santé, du droit, du bâtiment, etc.), des qualifications ou une autorisation spécifiques peuvent aussi être exigées ; un diplôme obtenu hors UE n'est pas reconnu automatiquement.",
+          "sources": [
+            {"label": "Guichet unique des formalités d'entreprises", "publisher": "INPI / formalites.entreprises.gouv.fr", "url": "https://formalites.entreprises.gouv.fr/", "verifiedAt": "2026-10-15"},
+            {"label": "Un étranger peut-il créer une entreprise en France ?", "publisher": "Entreprendre.Service-Public.fr", "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F22494", "verifiedAt": "2026-10-15"}
+          ],
+          "needsIndividualCheck": false
+        }
+      ]
+    },
+    {
+      "id": "differences-statuts",
+      "title": "Les différents statuts possibles et leurs différences",
+      "summary": "Plusieurs voies existent : la carte « entrepreneur / profession libérale », la carte « recherche d'emploi ou création d'entreprise » pour certains diplômés, le statut national d'étudiant-entrepreneur, et des régimes particuliers selon la nationalité. Elles n'ont ni les mêmes conditions, ni les mêmes effets.",
+      "sections": [
+        {
+          "heading": "La carte de séjour « entrepreneur / profession libérale »",
+          "body": "Base légale : article L421-5 du CESEDA (étranger exerçant une activité non salariée), complété par les articles R421-7 à R421-10.\n\nConditions principales indiquées par Service-Public (fiche vérifiée le 1er juin 2026) :\n- exercer une activité commerciale, artisanale, industrielle ou libérale à titre principal, immatriculée via le guichet unique des formalités d'entreprises ;\n- une activité économiquement viable, qui procure des moyens d'existence suffisants ;\n- pour une activité libérale ou la poursuite d'une activité : justifier de ressources tirées de l'activité d'au moins 1 867,02 € par mois (montant affiché par Service-Public, aligné sur le SMIC à temps plein) ;\n- pour une profession réglementée : autorisation d'exercice ou inscription à l'ordre ;\n- un avis sur la viabilité économique du projet, demandé en ligne avant le dépôt (obligation renforcée par le décret n° 2025-539 du 13 juin 2025).\n\nSelon les dispositions réglementaires du CESEDA, le préfet vérifie aussi la compatibilité de l'activité avec la sécurité, la salubrité et la tranquillité publiques, ainsi que l'absence de condamnation ou d'interdiction de gérer.\n\nDurée : 1 an maximum. Après une première carte, une carte pluriannuelle (jusqu'à 4 ans) peut être demandée sous conditions d'intégration (notamment français niveau A2 et examen civique selon Service-Public). Coût indiqué par Service-Public : 350 € pour une première carte (50 € de droit de timbre + 300 € de taxe).",
+          "sources": [
+            {"label": "Carte de séjour « entrepreneur/profession libérale »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35795", "verifiedAt": "2026-10-15"},
+            {"label": "Article L421-5 du CESEDA", "publisher": "Légifrance", "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042776783", "verifiedAt": "2026-10-15"},
+            {"label": "CESEDA, partie réglementaire – Étranger exerçant une activité non salariée (art. R421-7 à R421-10)", "publisher": "Légifrance", "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042800936/", "verifiedAt": "2026-10-15"},
+            {"label": "Décret n° 2025-539 du 13 juin 2025", "publisher": "Légifrance", "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051736256", "verifiedAt": "2026-10-15"}
+          ],
+          "needsIndividualCheck": true
+        },
+        {
+          "heading": "La carte « recherche d'emploi ou création d'entreprise » (RECE, anciennement APS)",
+          "body": "Cette carte permet à certains diplômés de rester en France après leurs études pour chercher un emploi ou créer une entreprise en lien avec leurs études.\n\nConditions indiquées par Service-Public (fiche vérifiée le 1er juin 2026) :\n- avoir une carte de séjour « étudiant » (ou « étudiant – programme de mobilité ») ;\n- avoir obtenu dans les 12 derniers mois une licence professionnelle, un master, un Mastère spécialisé, un Master of Science ou un diplôme au moins équivalent au master ;\n- la carte n'est pas proposée aux titulaires d'un Bac+2 ou d'une licence générale ;\n- elle ne concerne pas les étudiants algériens.\n\nDurée : 1 an, non renouvelable. Demande dans les 2 mois précédant la fin de validité de la carte étudiant. Coût indiqué : 150 € (50 € de droit de timbre + 100 € de taxe).\n\nEnsuite, pour poursuivre une activité indépendante, il faut demander la carte « entrepreneur / profession libérale » ou, si les conditions sont remplies, la carte pluriannuelle « talent – porteur de projet ».\n\nÀ vérifier individuellement : jusqu'où la RECE permet d'exploiter réellement l'activité (facturer, encaisser un chiffre d'affaires) avant d'obtenir la carte « entrepreneur / profession libérale ». Les fiches consultées parlent de « créer une entreprise en lien avec vos études » sans détailler ce point.",
+          "sources": [
+            {"label": "Carte de séjour ou VLS-TS « Recherche d'emploi / création d'entreprise »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17319", "verifiedAt": "2026-10-15"},
+            {"label": "Étudiant étranger : comment travailler en France après vos études ?", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2229", "verifiedAt": "2026-10-15"}
+          ],
+          "needsIndividualCheck": true
+        },
+        {
+          "heading": "La carte pluriannuelle « talent – porteur de projet »",
+          "body": "Pour certains projets plus structurés, le portail Entreprendre Service-Public présente la carte pluriannuelle « talent – porteur de projet » (jusqu'à 4 ans), qui suppose notamment un projet économique réel et sérieux ou un projet innovant reconnu par un organisme public. Les conditions (diplôme, investissement, etc.) sont spécifiques : consultez la fiche officielle et votre préfecture.",
+          "sources": [
+            {"label": "Un étranger peut-il créer une entreprise en France ? – Vous résidez déjà en France", "publisher": "Entreprendre.Service-Public.fr", "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F36620/1_0_0?idFicheParent=F22494", "verifiedAt": "2026-10-15"}
+          ],
+          "needsIndividualCheck": true
+        },
+        {
+          "heading": "Le statut national d'étudiant-entrepreneur (SNEE / Pépite)",
+          "body": "Le SNEE permet de développer un projet entrepreneurial tout en restant étudiant (ou jeune diplômé). Il est attribué par le comité d'engagement d'un Pépite (pôle étudiant pour l'innovation, le transfert et l'entrepreneuriat).\n\nSelon Service-Public (fiche vérifiée le 23 juin 2026) :\n- il est ouvert aux étudiants et jeunes diplômés titulaires du baccalauréat ou équivalent, sans limite d'âge ;\n- il donne accès à un accompagnement par deux tuteurs, à des espaces de coworking du réseau Pépite, à des aménagements d'emploi du temps et à la possibilité de remplacer le stage obligatoire par le projet ;\n- le diplôme d'étudiant-entrepreneur (D2E) est obligatoire pour un jeune diplômé qui n'a plus le statut étudiant.\n\nLa FAQ du ministère de l'Enseignement supérieur indique que le statut est délivré sans discrimination liée à la nationalité.\n\nImportant : le SNEE est un statut pédagogique. Les sources officielles consultées ne disent pas qu'il modifie les droits attachés au titre de séjour « étudiant ». Il ne remplace donc pas, à lui seul, un titre autorisant une activité non salariée. Renseignez-vous auprès de votre Pépite et de votre préfecture avant toute immatriculation.",
+          "sources": [
+            {"label": "Qu'est-ce que le statut national étudiant-entrepreneur (SNEE) ?", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32313", "verifiedAt": "2026-10-15"},
+            {"label": "FAQ : Statut National d'Étudiant-Entrepreneur", "publisher": "Ministère de l'Enseignement supérieur et de la Recherche", "url": "https://www.enseignementsup-recherche.gouv.fr/fr/faq-statut-national-d-etudiant-entrepreneur-84284", "verifiedAt": null}
+          ],
+          "needsIndividualCheck": true
+        },
+        {
+          "heading": "Régimes bilatéraux : Algérie, Maroc, Tunisie",
+          "body": "Algérie : le séjour des ressortissants algériens est régi par l'accord franco-algérien du 27 décembre 1968, qui prévoit ses propres titres (certificats de résidence). Pour une activité indépendante, Service-Public mentionne un certificat de résidence d'1 an portant la mention « profession non-salariée exercée », qui suppose notamment l'immatriculation au registre national des entreprises et un visa de long séjour correspondant à la mention demandée. La carte RECE ne concerne pas les étudiants algériens. Ces règles sont différentes de celles décrites ailleurs dans cet espace : une vérification individuelle est indispensable.\n\nMaroc : l'accord franco-marocain du 9 octobre 1987 régit principalement la carte de séjour « salarié ». Selon la jurisprudence administrative et la présentation du ministère de l'Intérieur, les points non traités par l'accord relèvent du droit commun (CESEDA). Pour une activité indépendante, ce sont donc en général les règles du CESEDA (carte « entrepreneur / profession libérale ») qui s'appliquent ; ce point est à confirmer pour votre situation.\n\nTunisie : l'accord franco-tunisien du 17 mars 1988 (modifié notamment par l'accord du 28 avril 2008) traite surtout du travail salarié et prévoit lui aussi que la législation nationale s'applique aux points qu'il ne traite pas. Nous n'avons pas pu confirmer dans une source officielle accessible le régime exact applicable à l'activité non salariée des Tunisiens : à vérifier individuellement.",
+          "sources": [
+            {"label": "Certificat de résidence d'1 an pour Algérien", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2215", "verifiedAt": "2026-10-15"},
+            {"label": "Carte de séjour ou VLS-TS « Recherche d'emploi / création d'entreprise »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17319", "verifiedAt": "2026-10-15"},
+            {"label": "Les accords bilatéraux en matière de circulation, de séjour et d'emploi", "publisher": "Ministère de l'Intérieur", "url": "https://www.immigration.interieur.gouv.fr/limmigration-en-france/accords-internationaux/accords-bilateraux-en-matiere-de-circulation-de-sejour-et-demploi", "verifiedAt": null}
+          ],
+          "needsIndividualCheck": true
+        }
+      ]
+    },
+    {
+      "id": "documents",
+      "title": "Documents généralement demandés",
+      "summary": "Les listes ci-dessous reprennent les pièces citées par Service-Public. Chaque préfecture peut demander des pièces complémentaires : référez-vous toujours à la liste de votre préfecture ou de la téléprocédure ANEF.",
+      "sections": [
+        {
+          "heading": "Pièces communes pour la carte « entrepreneur / profession libérale »",
+          "body": "Selon Service-Public (fiche vérifiée le 1er juin 2026), le dossier comprend généralement :\n- un visa de long séjour ou un titre de séjour en cours de validité ;\n- un justificatif de nationalité (passeport) ;\n- un justificatif de domicile de moins de 6 mois ;\n- 3 photos d'identité ;\n- le justificatif de paiement des taxes (timbres fiscaux) ;\n- le certificat médical OFII lorsqu'il est exigé ;\n- les actes d'état civil traduits en français par un traducteur agréé, le cas échéant ;\n- selon les cas, une déclaration de non-polygamie et le contrat d'engagement à respecter les principes de la République.",
+          "sources": [
+            {"label": "Carte de séjour « entrepreneur/profession libérale »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35795", "verifiedAt": "2026-10-15"}
+          ],
+          "needsIndividualCheck": true
+        },
+        {
+          "heading": "Pièces liées à l'activité",
+          "body": "Activité commerciale ou artisanale (selon Service-Public) :\n- le formulaire cerfa prévu ;\n- un business plan et un budget prévisionnel pluriannuel ;\n- un justificatif de capacité financière (par exemple attestation de solde bancaire en France) ;\n- le justificatif d'immatriculation de l'entreprise ;\n- l'avis rendu sur la viabilité du projet.\n\nActivité libérale (selon Service-Public) :\n- le justificatif d'immatriculation à l'URSSAF ;\n- la preuve que l'activité peut procurer au moins 1 867,02 € par mois ;\n- pour une profession réglementée, l'autorisation d'exercice ou l'inscription à l'ordre ;\n- l'avis rendu sur la viabilité du projet.\n\nLes pièces varient selon la structure (micro-entreprise, société, reprise de fonds…).",
+          "sources": [
+            {"label": "Carte de séjour « entrepreneur/profession libérale »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35795", "verifiedAt": "2026-10-15"}
+          ],
+          "needsIndividualCheck": true
+        },
+        {
+          "heading": "Pièces pour la demande d'avis sur la viabilité du projet",
+          "body": "La téléprocédure « Demander un avis sur un projet de carte de séjour temporaire entrepreneur/profession libérale » demande notamment :\n- le passeport (pages d'identité et de validité) ;\n- un extrait de casier judiciaire du pays d'origine traduit en français si vous résidez hors de France ;\n- les justificatifs relatifs à la réglementation de la profession, le cas échéant ;\n- un extrait d'immatriculation (RNE) de moins de 6 mois si l'entreprise est déjà immatriculée ;\n- pour une création : une présentation écrite du projet avec business plan et budget prévisionnel pluriannuel, une attestation de solde bancaire, un justificatif de local, les justificatifs de qualification ou d'expérience.",
+          "sources": [
+            {"label": "Demander un avis sur un projet de carte de séjour temporaire « entrepreneur/profession libérale »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/R60781", "verifiedAt": "2026-10-15"}
+          ],
+          "needsIndividualCheck": true
+        },
+        {
+          "heading": "Pièces pour la carte « recherche d'emploi ou création d'entreprise »",
+          "body": "Selon Service-Public, pour une demande en France :\n- la carte étudiant (ou le VLS-TS) valide au jour du dépôt ;\n- un justificatif de nationalité et un justificatif de domicile de moins de 6 mois ;\n- 3 photos d'identité ;\n- un justificatif d'assurance maladie ;\n- le diplôme ou une attestation de réussite ;\n- le cas échéant, un justificatif du projet de création d'entreprise dans votre domaine ;\n- le contrat d'engagement à respecter les principes de la République ;\n- si vous êtes marié(e) et originaire d'un pays autorisant la polygamie, une déclaration de non-polygamie.",
+          "sources": [
+            {"label": "Carte de séjour ou VLS-TS « Recherche d'emploi / création d'entreprise »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17319", "verifiedAt": "2026-10-15"}
+          ],
+          "needsIndividualCheck": true
+        }
+      ]
+    },
+    {
+      "id": "presentation-projet",
+      "title": "Présenter son projet",
+      "summary": "L'administration attend une présentation écrite claire du projet, avec un business plan et un budget prévisionnel. Un projet bien documenté facilite l'examen, sans garantir la décision.",
+      "sections": [
+        {
+          "heading": "Ce que doit contenir la présentation",
+          "body": "La téléprocédure d'avis sur le projet se déroule en plusieurs étapes : nature du projet, description de l'activité, plan de financement, pièces justificatives. Concrètement, préparez :\n- une description de l'activité (produits ou services, clientèle visée, lieu d'exercice) ;\n- votre parcours : diplômes, compétences et expériences en lien avec l'activité (Service-Public mentionne l'adéquation entre l'activité et vos qualifications ou votre expérience) ;\n- une étude de marché simple (concurrence, prix, premiers clients ou partenaires) ;\n- un business plan et un budget prévisionnel sur plusieurs années ;\n- un plan de financement (apport personnel, prêts, aides) ;\n- les éventuels justificatifs de local et autorisations réglementaires.\n\nLes structures d'accompagnement (CCI, CMA, Pépite, réseaux d'aide à la création) peuvent vous aider à structurer ces documents.",
+          "sources": [
+            {"label": "Demander un avis sur un projet de carte de séjour temporaire « entrepreneur/profession libérale »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/R60781", "verifiedAt": "2026-10-15"},
+            {"label": "Carte de séjour « entrepreneur/profession libérale »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35795", "verifiedAt": "2026-10-15"}
+          ],
+          "needsIndividualCheck": false
+        }
+      ]
+    },
+    {
+      "id": "viabilite",
+      "title": "Justifier la viabilité économique et les ressources",
+      "summary": "L'activité doit être économiquement viable et procurer des moyens d'existence suffisants ; Service-Public cite un seuil de 1 867,02 € par mois pour les activités libérales et la poursuite d'activité. Un avis sur la viabilité est demandé avant le dépôt.",
+      "sections": [
+        {
+          "heading": "Ce que l'administration examine",
+          "body": "D'après le CESEDA (article L421-5) et la fiche Service-Public :\n- la viabilité économique de l'activité ;\n- des moyens d'existence suffisants tirés de l'activité (Service-Public indique au moins 1 867,02 € par mois pour une activité libérale ou pour la poursuite d'une activité existante) ;\n- l'adéquation entre l'activité et vos qualifications ou votre expérience ;\n- pour une activité commerciale, la capacité financière (garantie ou solde bancaire) ;\n- la compatibilité de l'activité avec la sécurité, la salubrité et la tranquillité publiques, et l'absence de condamnation ou d'interdiction de gérer (partie réglementaire du CESEDA).\n\nUn avis sur la viabilité économique doit être demandé en ligne avant le dépôt de la demande de titre (décret n° 2025-539 du 13 juin 2025). Prévoyez ce délai dans votre calendrier.",
+          "sources": [
+            {"label": "Article L421-5 du CESEDA", "publisher": "Légifrance", "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042776783", "verifiedAt": "2026-10-15"},
+            {"label": "Carte de séjour « entrepreneur/profession libérale »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35795", "verifiedAt": "2026-10-15"},
+            {"label": "Décret n° 2025-539 du 13 juin 2025", "publisher": "Légifrance", "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051736256", "verifiedAt": "2026-10-15"}
+          ],
+          "needsIndividualCheck": true
+        },
+        {
+          "heading": "Relier prévisionnel et ressources",
+          "body": "En micro-entreprise, les cotisations sociales sont calculées sur le chiffre d'affaires (par exemple 21,2 % pour des prestations de services BIC en 2026), et il faut encore déduire les charges réelles de l'activité. Un chiffre d'affaires de 1 867,02 € par mois ne procure donc pas un revenu de 1 867,02 € par mois.\n\nPour que votre prévisionnel soit cohérent, présentez séparément : le chiffre d'affaires attendu, les charges, les cotisations sociales, l'impôt, et le revenu restant. La façon dont la préfecture apprécie le seuil (chiffre d'affaires ou revenu net) peut varier : faites-la confirmer pour votre dossier.",
+          "sources": [
+            {"label": "Cotisations sociales du micro-entrepreneur", "publisher": "Entreprendre.Service-Public.fr", "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F36232", "verifiedAt": "2026-10-15"},
+            {"label": "Carte de séjour « entrepreneur/profession libérale »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35795", "verifiedAt": "2026-10-15"}
+          ],
+          "needsIndividualCheck": true
+        }
+      ]
+    },
+    {
+      "id": "demarches",
+      "title": "Les démarches et le calendrier",
+      "summary": "Anticipez : la demande de changement de statut se dépose en général dans les 2 mois précédant l'expiration du titre actuel, et l'avis sur la viabilité du projet doit être obtenu avant. Les démarches passent par l'ANEF et/ou la préfecture de votre domicile.",
+      "sections": [
+        {
+          "heading": "Étapes générales (de l'étudiant vers l'activité indépendante)",
+          "body": "- 1. Faire le point sur votre situation : nationalité, diplôme, date d'expiration du titre, type d'activité.\n- 2. Choisir la voie adaptée : carte RECE si vous êtes éligible (licence pro, master ou équivalent), ou directement la carte « entrepreneur / profession libérale ».\n- 3. Pour la carte « entrepreneur / profession libérale » : demander en ligne l'avis sur la viabilité du projet (téléprocédure gratuite).\n- 4. Déposer la demande de titre auprès de la préfecture compétente, en ligne via l'ANEF lorsque la démarche y est ouverte, sinon selon les modalités de votre préfecture.\n- 5. Une fois le titre adapté obtenu (ou selon ce que la préfecture vous indique), réaliser ou mettre à jour l'immatriculation sur le guichet unique.\n\nL'ordre exact entre immatriculation et demande de titre peut dépendre de votre dossier (certaines pièces demandent un justificatif d'immatriculation) : demandez confirmation à votre préfecture ou à un professionnel.",
+          "sources": [
+            {"label": "Demander un avis sur un projet de carte de séjour temporaire « entrepreneur/profession libérale »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/R60781", "verifiedAt": "2026-10-15"},
+            {"label": "Faire une demande sur internet pour un titre de séjour, un changement de situation (ANEF)", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/R59398", "verifiedAt": "2026-10-15"},
+            {"label": "Administration numérique pour les étrangers en France (ANEF)", "publisher": "Ministère de l'Intérieur", "url": "https://administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/", "verifiedAt": "2026-10-15"}
+          ],
+          "needsIndividualCheck": true
+        },
+        {
+          "heading": "Quand déposer ?",
+          "body": "Service-Public indique que la demande de changement de statut se fait dans les 2 mois précédant la fin de validité de votre carte de séjour étudiant (fiches « Étudiant étranger : travailler après vos études », « Recherche d'emploi/création d'entreprise » et « Entrepreneur/profession libérale »).\n\nConseils de prudence :\n- commencez à préparer votre dossier au moins 4 mois avant l'expiration, car l'avis sur la viabilité doit être obtenu avant le dépôt ;\n- ne laissez pas votre titre expirer sans avoir déposé de demande ;\n- conservez les preuves de dépôt (attestation ANEF, récépissé) ;\n- un renouvellement tardif peut entraîner une taxe supplémentaire (Service-Public mentionne 180 € pour la carte entrepreneur).",
+          "sources": [
+            {"label": "Étudiant étranger : comment travailler en France après vos études ?", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2229", "verifiedAt": "2026-10-15"},
+            {"label": "Carte de séjour ou VLS-TS « Recherche d'emploi / création d'entreprise »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17319", "verifiedAt": "2026-10-15"},
+            {"label": "Carte de séjour « entrepreneur/profession libérale »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35795", "verifiedAt": "2026-10-15"}
+          ],
+          "needsIndividualCheck": true
+        },
+        {
+          "heading": "Chaque préfecture a ses propres modalités",
+          "body": "Les modalités de dépôt (téléprocédure ANEF, prise de rendez-vous, envoi postal, listes de pièces) varient selon les préfectures et sous-préfectures ; certaines sous-préfectures n'instruisent pas ces demandes. Consultez la page « étrangers » du site de votre préfecture (adresse du type www.<département>.gouv.fr). Exemples : la préfecture du Nord publie des listes de pièces pour les changements de statut, la préfecture de la Haute-Garonne publie une page dédiée aux étudiants étrangers en fin d'études. Le contenu de ces pages n'a pas pu être relu le 15 octobre 2026 (site indisponible) : vérifiez-les directement.",
+          "sources": [
+            {"label": "Préfecture du Nord – Liste des pièces justificatives pour un changement de statut (Lille)", "publisher": "Préfecture du Nord", "url": "https://www.nord.gouv.fr/Demarches/Etrangers-dans-le-Nord/Autres-titres-et-documents-de-sejour-des-etrangers/Modalites-de-depot-des-dossiers-retrait-des-titres-de-sejour-voyage-arrondissement-de-Lille/Liste-des-pieces-justificatives-pour-un-changement-de-statut", "verifiedAt": null},
+            {"label": "Préfecture de la Haute-Garonne – Étudiants étrangers en fin d'études", "publisher": "Préfecture de la Haute-Garonne", "url": "https://www.haute-garonne.gouv.fr/layout/set/print/Demarches-administratives/Immigration-et-integration/Titres-de-sejour-et-documents-de-voyage/Etudiants-etrangers/Etudiants-etrangers-en-fin-d-etude", "verifiedAt": null}
+          ],
+          "needsIndividualCheck": true
+        }
+      ]
+    },
+    {
+      "id": "micro-entreprise",
+      "title": "La micro-entreprise en 2026 : repères chiffrés",
+      "summary": "Le régime micro-entrepreneur repose sur des plafonds de chiffre d'affaires et des cotisations calculées en pourcentage du chiffre d'affaires. Les chiffres ci-dessous sont ceux publiés pour 2026 par Service-Public.",
+      "sections": [
+        {
+          "heading": "Plafonds de chiffre d'affaires 2026",
+          "body": "Plafonds de chiffre d'affaires hors taxes applicables en 2026 (Service-Public, fiche vérifiée le 21 février 2026) :\n- vente de marchandises, objets, denrées à emporter ou à consommer sur place, fourniture de logement (hors meublés de tourisme) : 203 100 € ;\n- prestations de services (BIC) : 83 600 € ;\n- activités libérales (BNC) : 83 600 € ;\n- meublé de tourisme classé et chambre d'hôtes : 83 600 € ; meublé de tourisme non classé : 15 000 €.\n\nActivité mixte : seuil global de 203 100 €, dont 83 600 € au maximum pour les prestations de services.\n\nUn dépassement isolé ne fait pas sortir du régime : la sortie intervient en cas de dépassement pendant 2 années consécutives, au 1er janvier suivant.",
+          "sources": [
+            {"label": "Micro-entrepreneur : quel est le chiffre d'affaires maximum ?", "publisher": "Entreprendre.Service-Public.fr", "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F32353", "verifiedAt": "2026-10-15"}
+          ],
+          "needsIndividualCheck": false
+        },
+        {
+          "heading": "Taux de cotisations sociales 2026",
+          "body": "Taux applicables au chiffre d'affaires (Service-Public, fiche vérifiée le 1er janvier 2026) :\n- vente de marchandises (BIC) et fourniture de logement : 12,3 % ;\n- prestations de services commerciales ou artisanales (BIC) : 21,2 % ;\n- activités libérales non réglementées (BNC, Sécurité sociale des indépendants) : 25,6 % (24,6 % en 2025) ;\n- activités libérales réglementées relevant de la Cipav : 23,2 %.\n\nRemarque : une ancienne page d'actualité de l'URSSAF annonçait 26,1 % pour les BNC en 2026 ; les pages officielles mises à jour (Service-Public, URSSAF) indiquent 25,6 %.\n\nEn début d'activité, l'aide ACRE peut réduire ces taux sous conditions ; ses modalités ont évolué au 1er juillet 2026 : vérifiez les taux réduits sur le site de l'URSSAF.",
+          "sources": [
+            {"label": "Cotisations sociales du micro-entrepreneur", "publisher": "Entreprendre.Service-Public.fr", "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F36232", "verifiedAt": "2026-10-15"},
+            {"label": "Évolution des taux de cotisations sociales des auto-entrepreneurs", "publisher": "Urssaf.fr", "url": "https://www.urssaf.fr/accueil/actualites/taux-cotisations-autoentrepeneur.html", "verifiedAt": "2026-10-15"}
+          ],
+          "needsIndividualCheck": false
+        },
+        {
+          "heading": "Contribution à la formation professionnelle (CFP)",
+          "body": "La CFP s'ajoute aux cotisations sociales. Taux en pourcentage du chiffre d'affaires annuel (Service-Public, fiche vérifiée le 1er janvier 2026) :\n- activité commerciale : 0,1 % ;\n- activité artisanale : 0,3 % ;\n- activité libérale : 0,2 %.\n\nLe montant effectivement appelé apparaît dans votre espace URSSAF.",
+          "sources": [
+            {"label": "Contribution à la formation professionnelle (CFP) des entrepreneurs individuels", "publisher": "Entreprendre.Service-Public.fr", "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F23459", "verifiedAt": "2026-10-15"}
+          ],
+          "needsIndividualCheck": false
+        },
+        {
+          "heading": "Versement libératoire de l'impôt sur le revenu",
+          "body": "Sur option, l'impôt sur le revenu peut être payé en même temps que les cotisations, en pourcentage du chiffre d'affaires (Service-Public, fiche vérifiée le 13 mai 2026) :\n- ventes, restauration, fourniture de logement (BIC) : 1 % ;\n- autres activités BIC (prestations de services) : 1,7 % ;\n- activités BNC : 2,2 %.\n\nTaux globaux cotisations + versement libératoire indiqués par Service-Public (hors CFP) : 13,3 % (vente), 22,9 % (services BIC), 27,8 % (BNC SSI), 25,4 % (BNC Cipav).\n\nCondition de revenus : le revenu fiscal de référence du foyer de l'année N-2 doit être inférieur à un plafond (par exemple 29 579 € pour une personne seule, 59 158 € pour un couple, selon la fiche). L'option se demande avant le 30 septembre pour l'année suivante, ou, en cas de création, avant le dernier jour du 3e mois suivant la création.",
+          "sources": [
+            {"label": "Versement libératoire de l'impôt sur le revenu du micro-entrepreneur", "publisher": "Entreprendre.Service-Public.fr", "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F23267", "verifiedAt": "2026-10-15"},
+            {"label": "Cotisations sociales du micro-entrepreneur", "publisher": "Entreprendre.Service-Public.fr", "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F36232", "verifiedAt": "2026-10-15"}
+          ],
+          "needsIndividualCheck": false
+        },
+        {
+          "heading": "Créer sa micro-entreprise : la formalité",
+          "body": "La déclaration de création se fait en ligne sur le guichet unique des formalités d'entreprises, géré par l'INPI (formalites.entreprises.gouv.fr). Les informations sont ensuite transmises au registre national des entreprises, à l'administration fiscale et à l'URSSAF.\n\nRappel : cette formalité est distincte du droit au séjour. Pour un ressortissant non européen résidant en France, elle doit s'articuler avec un titre de séjour autorisant l'activité non salariée.",
+          "sources": [
+            {"label": "Guichet unique des formalités d'entreprises", "publisher": "INPI / formalites.entreprises.gouv.fr", "url": "https://formalites.entreprises.gouv.fr/", "verifiedAt": "2026-10-15"},
+            {"label": "Un étranger peut-il créer une entreprise en France ?", "publisher": "Entreprendre.Service-Public.fr", "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F22494", "verifiedAt": "2026-10-15"}
+          ],
+          "needsIndividualCheck": false
+        }
+      ]
+    },
+    {
+      "id": "verification-individuelle",
+      "title": "Points à faire vérifier individuellement",
+      "summary": "Certaines questions dépendent entièrement de votre situation et de la pratique de votre préfecture. Faites-les vérifier par un interlocuteur qualifié avant d'agir.",
+      "sections": [
+        {
+          "heading": "Questions à poser à un professionnel",
+          "body": "- Votre nationalité relève-t-elle d'un accord bilatéral qui modifie les règles (notamment Algérie, et à confirmer pour la Tunisie) ?\n- Êtes-vous éligible à la carte RECE (type et date du diplôme) et que vous permet-elle exactement de faire pour votre projet ?\n- Votre activité est-elle réglementée (diplôme, autorisation, inscription à un ordre) ?\n- Comment la préfecture apprécie-t-elle le seuil de ressources (chiffre d'affaires, revenu, épargne) ?\n- Dans quel ordre faire l'immatriculation, la demande d'avis et la demande de titre ?\n- Si vous avez déjà immatriculé une micro-entreprise sous titre étudiant : quelles conséquences et quelles démarches ?\n- Vos délais : votre titre expire-t-il bientôt ?",
+          "sources": [],
+          "needsIndividualCheck": true
+        },
+        {
+          "heading": "Vers qui se tourner",
+          "body": "- La préfecture ou sous-préfecture de votre domicile (site www.<département>.gouv.fr, rubrique étrangers) et la téléprocédure ANEF.\n- Un avocat en droit des étrangers, ou une permanence juridique gratuite (point-justice, associations d'aide aux étrangers).\n- La CCI (activité commerciale) ou la CMA (activité artisanale) de votre département pour le projet et les formalités.\n- Le Pépite de votre établissement pour le statut national d'étudiant-entrepreneur.\n- Le service des relations internationales ou d'accueil des étudiants internationaux de votre établissement.\n- L'URSSAF pour les cotisations et le régime micro-entrepreneur.",
+          "sources": [
+            {"label": "Faire une demande sur internet pour un titre de séjour, un changement de situation (ANEF)", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/R59398", "verifiedAt": "2026-10-15"},
+            {"label": "Qu'est-ce que le statut national étudiant-entrepreneur (SNEE) ?", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32313", "verifiedAt": "2026-10-15"}
+          ],
+          "needsIndividualCheck": true
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "Puis-je créer une micro-entreprise avec mon titre de séjour étudiant ?",
+      "answer": "Selon Service-Public, « la carte de séjour étudiant ne permet pas d'être auto-entrepreneur ». Pour exercer une activité indépendante, il faut en principe un titre autorisant l'activité non salariée (par exemple la carte « entrepreneur / profession libérale »). Vous pouvez en revanche préparer votre projet pendant vos études, par exemple avec le statut national d'étudiant-entrepreneur.",
+      "sources": [
+        {"label": "Un étudiant non européen peut-il travailler en France ?", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2713", "verifiedAt": "2026-10-15"}
+      ]
+    },
+    {
+      "question": "Combien d'heures puis-je travailler comme salarié avec un titre étudiant ?",
+      "answer": "Au maximum 964 heures par an (60 % de la durée annuelle légale du travail), sans autorisation de travail, sauf pour les étudiants algériens qui relèvent de règles particulières. Le dépassement peut entraîner un retrait ou un refus de renouvellement du titre.",
+      "sources": [
+        {"label": "Un étudiant non européen peut-il travailler en France ?", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2713", "verifiedAt": "2026-10-15"}
+      ]
+    },
+    {
+      "question": "L'immatriculation de ma micro-entreprise me donne-t-elle un droit au séjour ?",
+      "answer": "Non. L'immatriculation via le guichet unique et l'affiliation à l'URSSAF sont des formalités d'entreprise. Le droit de séjourner et d'exercer une activité non salariée dépend du titre de séjour délivré par la préfecture.",
+      "sources": [
+        {"label": "Un étranger peut-il créer une entreprise en France ?", "publisher": "Entreprendre.Service-Public.fr", "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F22494", "verifiedAt": "2026-10-15"}
+      ]
+    },
+    {
+      "question": "Qui peut obtenir la carte « recherche d'emploi ou création d'entreprise » ?",
+      "answer": "Les titulaires d'une carte étudiant ayant obtenu, dans les 12 derniers mois, une licence professionnelle, un master, un Mastère spécialisé, un Master of Science ou un diplôme au moins équivalent au master. Elle n'est pas ouverte aux titulaires d'une licence générale ou d'un Bac+2, ni aux étudiants algériens. Elle dure 1 an et n'est pas renouvelable.",
+      "sources": [
+        {"label": "Carte de séjour ou VLS-TS « Recherche d'emploi / création d'entreprise »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17319", "verifiedAt": "2026-10-15"},
+        {"label": "Étudiant étranger : comment travailler en France après vos études ?", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2229", "verifiedAt": "2026-10-15"}
+      ]
+    },
+    {
+      "question": "Quand dois-je déposer ma demande de changement de statut ?",
+      "answer": "Service-Public indique : dans les 2 mois précédant la fin de validité de votre carte étudiant. Comme l'avis sur la viabilité du projet doit être obtenu avant le dépôt pour la carte « entrepreneur / profession libérale », commencez à préparer votre dossier plusieurs mois à l'avance.",
+      "sources": [
+        {"label": "Étudiant étranger : comment travailler en France après vos études ?", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2229", "verifiedAt": "2026-10-15"},
+        {"label": "Décret n° 2025-539 du 13 juin 2025", "publisher": "Légifrance", "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051736256", "verifiedAt": "2026-10-15"}
+      ]
+    },
+    {
+      "question": "Quel niveau de ressources faut-il justifier pour la carte « entrepreneur / profession libérale » ?",
+      "answer": "Le CESEDA exige des moyens d'existence suffisants tirés d'une activité économiquement viable. Service-Public indique, pour une activité libérale ou la poursuite d'une activité, un minimum de 1 867,02 € par mois. La manière dont ce seuil est apprécié dans votre dossier est à confirmer auprès de la préfecture.",
+      "sources": [
+        {"label": "Carte de séjour « entrepreneur/profession libérale »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35795", "verifiedAt": "2026-10-15"},
+        {"label": "Article L421-5 du CESEDA", "publisher": "Légifrance", "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042776783", "verifiedAt": "2026-10-15"}
+      ]
+    },
+    {
+      "question": "Je suis algérien(ne) : les règles sont-elles les mêmes ?",
+      "answer": "Non. Les Algériens relèvent de l'accord franco-algérien de 1968. Pour une activité indépendante, Service-Public mentionne un certificat de résidence « profession non-salariée exercée », avec notamment un visa de long séjour correspondant et l'immatriculation au registre national des entreprises. La carte RECE ne les concerne pas. Faites vérifier votre situation individuellement.",
+      "sources": [
+        {"label": "Certificat de résidence d'1 an pour Algérien", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2215", "verifiedAt": "2026-10-15"}
+      ]
+    },
+    {
+      "question": "Je suis marocain(e) ou tunisien(ne) : un accord bilatéral s'applique-t-il ?",
+      "answer": "Les accords franco-marocain (1987) et franco-tunisien (1988) portent principalement sur le travail salarié ; pour les points qu'ils ne traitent pas, le droit commun (CESEDA) s'applique. Pour une activité indépendante, ce sont donc en général les règles de la carte « entrepreneur / profession libérale » qui s'appliquent, mais ce point est à confirmer pour votre situation, en particulier pour les ressortissants tunisiens.",
+      "sources": [
+        {"label": "Les accords bilatéraux en matière de circulation, de séjour et d'emploi", "publisher": "Ministère de l'Intérieur", "url": "https://www.immigration.interieur.gouv.fr/limmigration-en-france/accords-internationaux/accords-bilateraux-en-matiere-de-circulation-de-sejour-et-demploi", "verifiedAt": null}
+      ]
+    },
+    {
+      "question": "Le statut national d'étudiant-entrepreneur me permet-il d'exercer mon activité ?",
+      "answer": "Le SNEE est un statut d'accompagnement (tutorat, coworking Pépite, aménagements d'études). Les sources officielles consultées ne disent pas qu'il modifie les droits attachés au titre de séjour étudiant. Il ne remplace pas un titre autorisant une activité non salariée : renseignez-vous auprès de votre Pépite et de votre préfecture.",
+      "sources": [
+        {"label": "Qu'est-ce que le statut national étudiant-entrepreneur (SNEE) ?", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32313", "verifiedAt": "2026-10-15"}
+      ]
+    },
+    {
+      "question": "Quels sont les taux de cotisations d'un micro-entrepreneur en 2026 ?",
+      "answer": "12,3 % du chiffre d'affaires pour la vente de marchandises, 21,2 % pour les prestations de services BIC, 25,6 % pour les activités libérales non réglementées (BNC, SSI) et 23,2 % pour les professions libérales relevant de la Cipav. S'y ajoutent la CFP (0,1 % commerce, 0,3 % artisanat, 0,2 % libéral) et, sur option, le versement libératoire (1 %, 1,7 % ou 2,2 %).",
+      "sources": [
+        {"label": "Cotisations sociales du micro-entrepreneur", "publisher": "Entreprendre.Service-Public.fr", "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F36232", "verifiedAt": "2026-10-15"},
+        {"label": "Contribution à la formation professionnelle (CFP) des entrepreneurs individuels", "publisher": "Entreprendre.Service-Public.fr", "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F23459", "verifiedAt": "2026-10-15"},
+        {"label": "Versement libératoire de l'impôt sur le revenu du micro-entrepreneur", "publisher": "Entreprendre.Service-Public.fr", "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F23267", "verifiedAt": "2026-10-15"}
+      ]
+    },
+    {
+      "question": "Combien coûte la carte « entrepreneur / profession libérale » ?",
+      "answer": "Service-Public indique 350 € pour une première carte (50 € de droit de timbre + 300 € de taxe), payés en timbres fiscaux, 250 € pour un renouvellement de carte temporaire, et une taxe supplémentaire de 180 € en cas de renouvellement tardif. Ces montants peuvent évoluer : vérifiez-les au moment du dépôt.",
+      "sources": [
+        {"label": "Carte de séjour « entrepreneur/profession libérale »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35795", "verifiedAt": "2026-10-15"}
+      ]
+    }
+  ],
+  "officialLinks": [
+    {"label": "ANEF – Administration numérique pour les étrangers en France", "publisher": "Ministère de l'Intérieur", "url": "https://administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/", "description": "Téléprocédures pour les titres de séjour (demandes, validation de VLS-TS, changement d'adresse…).", "verifiedAt": "2026-10-15"},
+    {"label": "Faire une demande de titre de séjour en ligne (ANEF)", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/R59398", "description": "Présentation officielle de la téléprocédure ANEF et des démarches disponibles.", "verifiedAt": "2026-10-15"},
+    {"label": "Demander un avis sur un projet « entrepreneur/profession libérale »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/R60781", "description": "Téléprocédure gratuite pour obtenir l'avis sur la viabilité du projet, à demander avant le dépôt de la demande de titre.", "verifiedAt": "2026-10-15"},
+    {"label": "Carte de séjour « entrepreneur/profession libérale »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35795", "description": "Conditions, pièces, coût et durée de la carte.", "verifiedAt": "2026-10-15"},
+    {"label": "Carte « Recherche d'emploi / création d'entreprise »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17319", "description": "Carte d'un an pour certains diplômés (licence pro, master ou équivalent).", "verifiedAt": "2026-10-15"},
+    {"label": "Un étudiant non européen peut-il travailler en France ?", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2713", "description": "Règle des 964 heures et limites du titre étudiant.", "verifiedAt": "2026-10-15"},
+    {"label": "Étudiant étranger : travailler en France après vos études", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2229", "description": "Options après le diplôme et délai de changement de statut.", "verifiedAt": "2026-10-15"},
+    {"label": "Un étranger peut-il créer une entreprise en France ?", "publisher": "Entreprendre.Service-Public.fr", "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F22494", "description": "Titres de séjour permettant de créer et d'exercer une activité.", "verifiedAt": "2026-10-15"},
+    {"label": "Certificat de résidence d'1 an pour Algérien", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2215", "description": "Règles propres aux ressortissants algériens, dont la mention « profession non-salariée exercée ».", "verifiedAt": "2026-10-15"},
+    {"label": "Statut national étudiant-entrepreneur (SNEE)", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32313", "description": "Conditions et avantages du statut d'étudiant-entrepreneur.", "verifiedAt": "2026-10-15"},
+    {"label": "Article L421-5 du CESEDA", "publisher": "Légifrance", "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042776783", "description": "Texte de loi sur la carte « entrepreneur / profession libérale ».", "verifiedAt": "2026-10-15"},
+    {"label": "Guichet unique des formalités d'entreprises", "publisher": "INPI", "url": "https://formalites.entreprises.gouv.fr/", "description": "Déclaration en ligne de création, modification ou cessation d'entreprise.", "verifiedAt": "2026-10-15"},
+    {"label": "Micro-entrepreneur : plafonds de chiffre d'affaires", "publisher": "Entreprendre.Service-Public.fr", "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F32353", "description": "Plafonds 2026 et conséquences d'un dépassement.", "verifiedAt": "2026-10-15"},
+    {"label": "Cotisations sociales du micro-entrepreneur", "publisher": "Entreprendre.Service-Public.fr", "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F36232", "description": "Taux de cotisations par type d'activité.", "verifiedAt": "2026-10-15"},
+    {"label": "Évolution des taux de cotisations des auto-entrepreneurs", "publisher": "Urssaf.fr", "url": "https://www.urssaf.fr/accueil/actualites/taux-cotisations-autoentrepeneur.html", "description": "Actualité URSSAF sur l'évolution des taux.", "verifiedAt": "2026-10-15"},
+    {"label": "Campus France – Créer son entreprise en France", "publisher": "Campus France", "url": "https://www.campusfrance.org/en/how-to-start-company-France", "description": "Présentation générale pour les étudiants internationaux (en anglais ; utilise encore l'ancienne appellation APS pour la carte RECE).", "verifiedAt": "2026-10-15"}
+  ],
+  "questionnaire": [
+    {
+      "id": "nationalite",
+      "label": "Quelle est votre nationalité ?",
+      "help": "Certaines nationalités relèvent d'accords bilatéraux qui modifient les règles applicables.",
+      "options": [
+        {"value": "marocaine", "label": "Marocaine"},
+        {"value": "algerienne", "label": "Algérienne"},
+        {"value": "tunisienne", "label": "Tunisienne"},
+        {"value": "ue", "label": "Pays de l'UE, de l'EEE ou Suisse"},
+        {"value": "autre", "label": "Autre nationalité"}
+      ]
+    },
+    {
+      "id": "titre_actuel",
+      "label": "Quel titre de séjour avez-vous actuellement ?",
+      "help": "Indiquez la mention figurant sur votre carte ou votre VLS-TS.",
+      "options": [
+        {"value": "etudiant", "label": "Étudiant (ou étudiant – programme de mobilité)"},
+        {"value": "rece", "label": "Recherche d'emploi / création d'entreprise (ex-APS)"},
+        {"value": "salarie", "label": "Salarié / travailleur temporaire"},
+        {"value": "autre", "label": "Autre titre"},
+        {"value": "aucun", "label": "Aucun titre en cours de validité"}
+      ]
+    },
+    {
+      "id": "diplome",
+      "label": "Quel est votre diplôme français le plus élevé ?",
+      "help": "La carte « recherche d'emploi / création d'entreprise » est réservée à certains diplômes obtenus dans les 12 derniers mois.",
+      "options": [
+        {"value": "master_ou_plus", "label": "Master ou diplôme équivalent ou supérieur"},
+        {"value": "licence_pro", "label": "Licence professionnelle"},
+        {"value": "licence", "label": "Licence générale"},
+        {"value": "autre", "label": "Autre diplôme"},
+        {"value": "en_cours", "label": "Diplôme en cours de préparation"}
+      ]
+    },
+    {
+      "id": "expiration",
+      "label": "Dans combien de temps expire votre titre actuel ?",
+      "help": "La demande de changement de statut se dépose en général dans les 2 mois précédant l'expiration ; la préparation prend du temps.",
+      "options": [
+        {"value": "moins_2_mois", "label": "Moins de 2 mois"},
+        {"value": "2_4_mois", "label": "Entre 2 et 4 mois"},
+        {"value": "plus_4_mois", "label": "Plus de 4 mois"}
+      ]
+    },
+    {
+      "id": "activite",
+      "label": "Quel type d'activité envisagez-vous ?",
+      "help": "Commerciale : achat-revente, commerce. Artisanale : fabrication, réparation, bâtiment… Libérale : conseil, formation, services intellectuels.",
+      "options": [
+        {"value": "commerciale", "label": "Commerciale"},
+        {"value": "artisanale", "label": "Artisanale"},
+        {"value": "liberale", "label": "Libérale"},
+        {"value": "ne_sait_pas", "label": "Je ne sais pas encore"}
+      ]
+    },
+    {
+      "id": "immatriculation",
+      "label": "Avez-vous déjà immatriculé une micro-entreprise ?",
+      "help": "Par exemple via le guichet unique (formalites.entreprises.gouv.fr) ou l'ancien site de l'URSSAF.",
+      "options": [
+        {"value": "oui", "label": "Oui"},
+        {"value": "non", "label": "Non"}
+      ]
+    },
+    {
+      "id": "ressources",
+      "label": "Pensez-vous pouvoir justifier de ressources tirées de l'activité au moins équivalentes au SMIC ?",
+      "help": "Service-Public indique 1 867,02 € par mois pour une activité libérale ou la poursuite d'une activité.",
+      "options": [
+        {"value": "oui_smic", "label": "Oui, au moins l'équivalent du SMIC"},
+        {"value": "non", "label": "Non, pas pour l'instant"},
+        {"value": "ne_sait_pas", "label": "Je ne sais pas"}
+      ]
+    },
+    {
+      "id": "projet_lien_etudes",
+      "label": "Votre projet est-il en lien avec vos études ?",
+      "help": "La carte « recherche d'emploi / création d'entreprise » vise un projet en lien avec vos études.",
+      "options": [
+        {"value": "oui", "label": "Oui"},
+        {"value": "non", "label": "Non"},
+        {"value": "ne_sait_pas", "label": "Je ne sais pas"}
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "id": "base",
+      "when": {},
+      "topics": ["conditions-sejour", "verification-individuelle"],
+      "alerts": [
+        {"level": "info", "text": "Ces résultats sont indicatifs et ne garantissent pas l'obtention d'un titre de séjour. Chaque dossier est examiné individuellement par la préfecture.", "sources": []}
+      ]
+    },
+    {
+      "id": "expiration-critique",
+      "when": {"expiration": ["moins_2_mois"]},
+      "topics": ["demarches", "verification-individuelle"],
+      "alerts": [
+        {"level": "critical", "text": "Votre titre expire dans moins de 2 mois : vous êtes dans la période où la demande de changement de statut doit en général être déposée. Ne laissez pas votre titre expirer sans demande déposée : contactez rapidement votre préfecture (ou l'ANEF) et, si besoin, un avocat ou une permanence juridique.", "sources": [
+          {"label": "Étudiant étranger : comment travailler en France après vos études ?", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2229", "verifiedAt": "2026-10-15"}
+        ]}
+      ]
+    },
+    {
+      "id": "expiration-proche",
+      "when": {"expiration": ["2_4_mois"]},
+      "topics": ["demarches", "documents"],
+      "alerts": [
+        {"level": "warning", "text": "Votre titre expire dans 2 à 4 mois : commencez dès maintenant à préparer votre dossier. Pour la carte « entrepreneur / profession libérale », l'avis sur la viabilité du projet doit être obtenu avant le dépôt.", "sources": [
+          {"label": "Demander un avis sur un projet de carte de séjour temporaire « entrepreneur/profession libérale »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/R60781", "verifiedAt": "2026-10-15"}
+        ]}
+      ]
+    },
+    {
+      "id": "algerie",
+      "when": {"nationalite": ["algerienne"]},
+      "topics": ["differences-statuts", "verification-individuelle"],
+      "alerts": [
+        {"level": "warning", "text": "En tant que ressortissant(e) algérien(ne), vous relevez de l'accord franco-algérien de 1968 : les titres et conditions sont différents (certificat de résidence « profession non-salariée exercée », visa de long séjour correspondant demandé). La carte « recherche d'emploi / création d'entreprise » ne vous concerne pas. Une vérification individuelle est indispensable.", "sources": [
+          {"label": "Certificat de résidence d'1 an pour Algérien", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2215", "verifiedAt": "2026-10-15"},
+          {"label": "Carte de séjour ou VLS-TS « Recherche d'emploi / création d'entreprise »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17319", "verifiedAt": "2026-10-15"}
+        ]}
+      ]
+    },
+    {
+      "id": "maroc-tunisie",
+      "when": {"nationalite": ["marocaine", "tunisienne"]},
+      "topics": ["differences-statuts"],
+      "alerts": [
+        {"level": "info", "text": "Les accords bilatéraux franco-marocain et franco-tunisien portent principalement sur le travail salarié. Pour une activité indépendante, ce sont en général les règles du CESEDA qui s'appliquent ; ce point reste à confirmer pour votre situation (en particulier pour les ressortissants tunisiens).", "sources": [
+          {"label": "Les accords bilatéraux en matière de circulation, de séjour et d'emploi", "publisher": "Ministère de l'Intérieur", "url": "https://www.immigration.interieur.gouv.fr/limmigration-en-france/accords-internationaux/accords-bilateraux-en-matiere-de-circulation-de-sejour-et-demploi", "verifiedAt": null}
+        ]}
+      ]
+    },
+    {
+      "id": "ue",
+      "when": {"nationalite": ["ue"]},
+      "topics": ["micro-entreprise"],
+      "alerts": [
+        {"level": "info", "text": "Les ressortissants de l'UE, de l'EEE et de la Suisse n'ont pas besoin de titre de séjour pour créer une entreprise en France. Les informations sur les titres de séjour de cet espace ne vous concernent donc en principe pas.", "sources": [
+          {"label": "Un étranger peut-il créer une entreprise en France ?", "publisher": "Entreprendre.Service-Public.fr", "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F22494", "verifiedAt": "2026-10-15"}
+        ]}
+      ]
+    },
+    {
+      "id": "etudiant-deja-immatricule",
+      "when": {"titre_actuel": ["etudiant"], "immatriculation": ["oui"]},
+      "topics": ["conditions-sejour", "verification-individuelle"],
+      "alerts": [
+        {"level": "warning", "text": "Vous indiquez avoir déjà immatriculé une micro-entreprise avec un titre étudiant. Selon Service-Public, la carte de séjour étudiant ne permet pas d'être auto-entrepreneur, et l'immatriculation ne donne pas de droit au séjour. Pas de panique, mais faites rapidement le point avec un avocat ou une permanence juridique avant toute nouvelle démarche (renouvellement, facturation, déclaration).", "sources": [
+          {"label": "Un étudiant non européen peut-il travailler en France ?", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2713", "verifiedAt": "2026-10-15"}
+        ]}
+      ]
+    },
+    {
+      "id": "etudiant-general",
+      "when": {"titre_actuel": ["etudiant"]},
+      "topics": ["differences-statuts", "demarches"],
+      "alerts": [
+        {"level": "info", "text": "Avec un titre étudiant, vous pouvez préparer votre projet (accompagnement, étude de marché, statut d'étudiant-entrepreneur), mais l'exercice d'une activité indépendante suppose en principe un autre titre de séjour.", "sources": [
+          {"label": "Un étudiant non européen peut-il travailler en France ?", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2713", "verifiedAt": "2026-10-15"}
+        ]}
+      ]
+    },
+    {
+      "id": "rece-possible",
+      "when": {"titre_actuel": ["etudiant"], "diplome": ["master_ou_plus", "licence_pro"], "nationalite": ["marocaine", "tunisienne", "autre"]},
+      "topics": ["differences-statuts", "documents"],
+      "alerts": [
+        {"level": "info", "text": "Avec un master (ou équivalent) ou une licence professionnelle obtenu dans les 12 derniers mois, la carte « recherche d'emploi / création d'entreprise » (1 an, non renouvelable) peut être une étape pour développer un projet en lien avec vos études, avant de demander la carte « entrepreneur / profession libérale ».", "sources": [
+          {"label": "Carte de séjour ou VLS-TS « Recherche d'emploi / création d'entreprise »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17319", "verifiedAt": "2026-10-15"}
+        ]}
+      ]
+    },
+    {
+      "id": "rece-non-ouverte",
+      "when": {"diplome": ["licence", "autre"]},
+      "topics": ["differences-statuts", "viabilite"],
+      "alerts": [
+        {"level": "info", "text": "D'après Service-Public, la carte « recherche d'emploi / création d'entreprise » n'est pas proposée aux titulaires d'une licence générale ou d'un Bac+2. La voie à étudier est en principe la carte « entrepreneur / profession libérale », avec ses conditions de viabilité et de ressources.", "sources": [
+          {"label": "Étudiant étranger : comment travailler en France après vos études ?", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2229", "verifiedAt": "2026-10-15"}
+        ]}
+      ]
+    },
+    {
+      "id": "diplome-en-cours",
+      "when": {"diplome": ["en_cours"]},
+      "topics": ["differences-statuts", "presentation-projet"],
+      "alerts": [
+        {"level": "info", "text": "Votre diplôme est en cours : le statut national d'étudiant-entrepreneur (via le Pépite de votre établissement) peut vous permettre de développer votre projet pendant vos études. Il ne modifie pas, à lui seul, les droits liés à votre titre de séjour.", "sources": [
+          {"label": "Qu'est-ce que le statut national étudiant-entrepreneur (SNEE) ?", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32313", "verifiedAt": "2026-10-15"}
+        ]}
+      ]
+    },
+    {
+      "id": "titulaire-rece",
+      "when": {"titre_actuel": ["rece"]},
+      "topics": ["demarches", "viabilite", "presentation-projet"],
+      "alerts": [
+        {"level": "info", "text": "La carte « recherche d'emploi / création d'entreprise » dure 1 an et n'est pas renouvelable. Pour poursuivre une activité indépendante, préparez à temps la demande de carte « entrepreneur / profession libérale » (avis sur la viabilité à obtenir avant le dépôt).", "sources": [
+          {"label": "Carte de séjour ou VLS-TS « Recherche d'emploi / création d'entreprise »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17319", "verifiedAt": "2026-10-15"}
+        ]}
+      ]
+    },
+    {
+      "id": "rece-projet-hors-etudes",
+      "when": {"titre_actuel": ["rece"], "projet_lien_etudes": ["non"]},
+      "topics": ["verification-individuelle"],
+      "alerts": [
+        {"level": "warning", "text": "La carte « recherche d'emploi / création d'entreprise » vise un projet en lien avec vos études. Un projet sans lien avec votre formation est à faire vérifier auprès de la préfecture ou d'un professionnel.", "sources": [
+          {"label": "Carte de séjour ou VLS-TS « Recherche d'emploi / création d'entreprise »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17319", "verifiedAt": "2026-10-15"}
+        ]}
+      ]
+    },
+    {
+      "id": "salarie-ou-autre",
+      "when": {"titre_actuel": ["salarie", "autre"]},
+      "topics": ["differences-statuts", "demarches"],
+      "alerts": [
+        {"level": "info", "text": "Votre titre actuel ne correspond pas forcément à une activité non salariée. Passer à une activité indépendante suppose en général une demande de changement de statut : vérifiez les droits attachés à votre titre actuel.", "sources": [
+          {"label": "Un étranger peut-il créer une entreprise en France ? – Vous résidez déjà en France", "publisher": "Entreprendre.Service-Public.fr", "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F36620/1_0_0?idFicheParent=F22494", "verifiedAt": "2026-10-15"}
+        ]}
+      ]
+    },
+    {
+      "id": "sans-titre",
+      "when": {"titre_actuel": ["aucun"], "nationalite": ["marocaine", "algerienne", "tunisienne", "autre"]},
+      "topics": ["verification-individuelle"],
+      "alerts": [
+        {"level": "critical", "text": "Sans titre de séjour en cours de validité, les démarches décrites ici peuvent ne pas être accessibles en l'état. Rapprochez-vous rapidement d'un avocat en droit des étrangers ou d'une permanence juridique gratuite avant toute démarche.", "sources": []}
+      ]
+    },
+    {
+      "id": "ressources-insuffisantes",
+      "when": {"ressources": ["non"]},
+      "topics": ["viabilite", "presentation-projet"],
+      "alerts": [
+        {"level": "warning", "text": "La carte « entrepreneur / profession libérale » suppose une activité économiquement viable procurant des moyens d'existence suffisants (Service-Public cite 1 867,02 € par mois pour une activité libérale ou la poursuite d'activité). Si vos ressources prévisionnelles sont inférieures, retravaillez votre prévisionnel avec une structure d'accompagnement et faites vérifier votre dossier avant de déposer.", "sources": [
+          {"label": "Carte de séjour « entrepreneur/profession libérale »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35795", "verifiedAt": "2026-10-15"}
+        ]}
+      ]
+    },
+    {
+      "id": "ressources-inconnues",
+      "when": {"ressources": ["ne_sait_pas"]},
+      "topics": ["viabilite", "micro-entreprise"],
+      "alerts": [
+        {"level": "info", "text": "Établissez un prévisionnel distinguant chiffre d'affaires, charges, cotisations sociales et revenu restant : c'est ce qui permet d'apprécier si vos ressources atteignent le niveau attendu.", "sources": [
+          {"label": "Cotisations sociales du micro-entrepreneur", "publisher": "Entreprendre.Service-Public.fr", "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F36232", "verifiedAt": "2026-10-15"}
+        ]}
+      ]
+    },
+    {
+      "id": "activite-liberale",
+      "when": {"activite": ["liberale"]},
+      "topics": ["documents", "micro-entreprise"],
+      "alerts": [
+        {"level": "info", "text": "Pour une activité libérale, Service-Public cite notamment l'immatriculation URSSAF, des ressources d'au moins 1 867,02 € par mois et, si la profession est réglementée, l'autorisation d'exercice ou l'inscription à l'ordre. En 2026, le taux de cotisations est de 25,6 % (BNC, SSI) ou 23,2 % (Cipav).", "sources": [
+          {"label": "Carte de séjour « entrepreneur/profession libérale »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35795", "verifiedAt": "2026-10-15"},
+          {"label": "Cotisations sociales du micro-entrepreneur", "publisher": "Entreprendre.Service-Public.fr", "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F36232", "verifiedAt": "2026-10-15"}
+        ]}
+      ]
+    },
+    {
+      "id": "activite-commerciale-artisanale",
+      "when": {"activite": ["commerciale", "artisanale"]},
+      "topics": ["presentation-projet", "viabilite", "documents"],
+      "alerts": [
+        {"level": "info", "text": "Pour une activité commerciale ou artisanale, Service-Public cite notamment un business plan, un budget prévisionnel pluriannuel et un justificatif de capacité financière. La CCI (commerce) ou la CMA (artisanat) peut vous aider à les préparer.", "sources": [
+          {"label": "Carte de séjour « entrepreneur/profession libérale »", "publisher": "Service-Public.fr", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35795", "verifiedAt": "2026-10-15"}
+        ]}
+      ]
+    },
+    {
+      "id": "activite-indeterminee",
+      "when": {"activite": ["ne_sait_pas"]},
+      "topics": ["micro-entreprise", "presentation-projet"],
+      "alerts": [
+        {"level": "info", "text": "Le type d'activité (commerciale, artisanale, libérale) détermine les pièces demandées, les plafonds et les taux de cotisations. Une structure d'accompagnement (CCI, CMA, Pépite) peut vous aider à le qualifier.", "sources": []}
+      ]
+    }
+  ]
+}

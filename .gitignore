@@ -1,0 +1,11 @@
+# Secrets
+.env
+.env.*
+# The business plan PDF is sold on Buy Me a Coffee: never publish it with the site.
+*.pdf
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/tsconfig.tsbuildinfo
+*.log
+.vercel
